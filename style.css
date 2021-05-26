@@ -1,0 +1,25 @@
+.header{
+     display:flex;
+    font-size: xx-large ;
+    font-style: italic;
+    background-color: #f10e0e;
+    margin-left: 30%;
+    justify-content: space-between;
+    font-weight: 900;
+    text-align:center;
+   
+}
+
+.site-description{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:pink;
+    font-style: oblique;
+}
